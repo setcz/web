@@ -1,0 +1,55 @@
+---
+layout:     study
+title:      "Čistá energie v uhelných regionech"
+slug:       2020_cista-energie-v-uhelnych-regionech
+weight:     7
+tags:       [ studie, svet ]
+caption:    ""
+intro:      ""
+summary:    |
+    * **Uhlíková daň uvalená na producenty fosilních paliv je nejefektivnějším opatřením** pro mitigaci klimatické změny, neboť ponechává na firmách a domácnostech volbu nejméně nákladného způsobu snížení spotřeby energií a emisí.
+    * Široká politická podpora je nezbytná pro přijetí potřebných opatření. Příjmy z uhlíkové daně mohou být využity **pro zmírnění dopadů na nízkopříjmové skupiny a nejvíce zasažené regiony, jako investice do čistších technologií nebo na podporu ekonomiky snížením daní z příjmu.**
+    * Globální průměrná cena za emise skleníkových plynů je $2/t CO<sub>2</sub>, avšak omezení globálního oteplení do 2 °C vyžaduje cenu $75/t CO<sub>2</sub> v roce 2030. **Mezinárodní spolupráce zemí je klíčová, například v zavedení minimální ceny za emise skleníkových plynů.** Pro rozvíjející se země může být stanovena nižší minimální cena nebo mohou obdržet přímou finanční podporu.
+
+study-title:        "Clean energy technologies in coal regions"
+study-author:       ""
+study-institution:  "JRC"
+study-year:         2020
+study-isbn:         "978-92-76-12330-9"
+study-url:          "https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/clean-energy-technologies-coal-regions"
+study-pdf:          "http://publications.jrc.ec.europa.eu/repository/bitstream/JRC117938/clean_energy_technologies_in_coal_regions_online.pdf"
+
+---
+
+## Shrnutí
+
+
+<div class="table table-striped table-hover" markdown="1">
+
+| Region               | Vyrobeno <br/>celkem | Podíl<br/>uhlí | Podíl<br/>plynu | Podíl<br/>Jádra| Podíl<br/>OZE |Spotřeba<br/>na obyvatele | Uhlíková<br/>intenzita<br/>g CO2 / kWh |
+| -------------------- |---------------------:| --------------:| ---------------:| -------------:|--------------:|-------------------------:| ---------------------------------------:|
+| Celý svět            | 25 821 TWh           | 35&thinsp;%    |   24&thinsp;%   | 11&thinsp;%   | 27&thinsp;%   | 3 408 kWh                | 442                                |
+| EU                   | 3 211 TWh            | 14&thinsp;%    |   22&thinsp;%   | 26&thinsp;%   | 35&thinsp;%   | 6 259 kWh                | 256                                |
+| USA                  | 4 153 TWh            | 23&thinsp;%    |   38&thinsp;%   | 19&thinsp;%   | 18&thinsp;%   | 12 661 kWh               | 406                                |
+| Čína                 | 7 325 TWh            | 62&thinsp;%    |    3&thinsp;%   | 5&thinsp;%    | 28&thinsp;%   | 5 109 kWh                | 576                                |
+| Indie                | 1 378 TWh            | 72&thinsp;%    |    3&thinsp;%   | 3&thinsp;%    | 21&thinsp;%   | 1 008 kWh                | 651                                |
+| Ostatní státy        | 9 754 TWh            | 21&thinsp;%    |   36&thinsp;%   | 7&thinsp;%    | 28&thinsp;%   | 2 478 kWh                | 388                                |
+| -------------------- |---------------------:| --------------:| ---------------:| -------------:|--------------:|-------------------------:| ----------------------------------:|
+| ČR (pro srovnání)    | 86 TWh               | 43&thinsp;%    |    7&thinsp;%   | 35&thinsp;%   | 13&thinsp;%   | 6 916 kWh                | ???                                |
+
+</div>
+
+### Evropská Unie
+
+Poptávka po elektřině v Evropské Unii dlouhodobě stagnuje. Mezi roky 2018 a 2019 došlo v EU k propadu využívání uhlí k výrobě elektřiny o 24% a emise skleníkových plynů z výroby elektřiny poklesly o 13%. Jde o pokračování dlouhodobého trendu, kdy v rámci EU je uhlí postupně nahrazováno obnovitelnými zdroji, zejména ve státech západní Evropy. Pro dosažení scénářů podle IEA či IPCC je tento trend v rámci EU dostatečný, pokud se ho podaří udržet. Především je nutné dále nahrazovat uhelné elektrárny ve státech jako je Německo nebo Polsko. Uhlíková intenzita výroby elektřiny v EU je 256 g CO2 / kWh, o 42 % nižší než je světový průměr a uhlí se na výrobě elektřiny podílí pouhými 14%.
+
+### USA 
+
+Poptávka po elektřině v USA dlouhodobě stagnuje. Mezi roky 2018 a 2018 došlo k poklesu ve využívání uhlí o 16 %, v mixu výroby elektřiny v USA tak uhlí představuje 23 %. Uhlí je nahrazováno především zemním plynem, rozvoj větrných a solárních elektráren je v USA nejnižší ze sledovaných regionů. Průměrný obyvatel USA spotřebovává 12,7 MWh ročně, tedy přibližně čtyřikrát více elektřiny oproti světovému průměru 3,4 MWh. Uhlíková intenzita výroby elektřiny v USA je 405 g CO2 / kWh
+
+## Poznámky o zpracovateli
+
+Ember (dříve nazývaný Sandbag) je nezávislý klimatický think-tank, zaměřený na podporu přechodu od uhlí k čistým zdrojům elektřiny. Cílem zprávy je předložit analýzu aktuálních trendů ve využívání elektřiny a zároveň také volně poskytnout soubor se zdrojovými daty za jednotlivé státy. Zpráva se zabývá pouze výrobou elektřiny, nikoli celým energetickým sektorem, není tak například zahrnuta energie spotřebovaná dopravou (benzín, nafta) či na vytápění (zejm. zemní plyn) . 
+
+Dataset obsahuje údaje z let 2000–2019 pro 224 zemí. U hlavních zemí byla data získána od národních zdrojů (jedná se o Čínu, Spojené státy americké, Indii, Evropskou unii a 15 dalších větších států), údaje pro ostatní státy byly získány prostřednictvím [Mezinárodní energetické agentury](https://www.iea.org/). V některých případech byla data doplněná o další odhady (zpravidla se jednalo o produkci elektřiny podle jednotlivých typů výroby u dat z IEA). Detailnější metodologii těchto odhadů a dalších výpočtů popisuje příslušná část zprávy.
+
