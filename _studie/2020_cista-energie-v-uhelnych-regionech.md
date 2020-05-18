@@ -39,17 +39,11 @@ study-pdf:          "http://publications.jrc.ec.europa.eu/repository/bitstream/J
 
 </div>
 
-### Evropská Unie
+## Poznámky o metodice
 
-Poptávka po elektřině v Evropské Unii dlouhodobě stagnuje. Mezi roky 2018 a 2019 došlo v EU k propadu využívání uhlí k výrobě elektřiny o 24% a emise skleníkových plynů z výroby elektřiny poklesly o 13%. Jde o pokračování dlouhodobého trendu, kdy v rámci EU je uhlí postupně nahrazováno obnovitelnými zdroji, zejména ve státech západní Evropy. Pro dosažení scénářů podle IEA či IPCC je tento trend v rámci EU dostatečný, pokud se ho podaří udržet. Především je nutné dále nahrazovat uhelné elektrárny ve státech jako je Německo nebo Polsko. Uhlíková intenzita výroby elektřiny v EU je 256 g CO2 / kWh, o 42 % nižší než je světový průměr a uhlí se na výrobě elektřiny podílí pouhými 14%.
+* Pro dělení EU do regionů je použita konvence [NUTS](https://ec.europa.eu/eurostat/web/nuts/background) (Nomenklatura územních statistických jednotek)  Toto dělení obsahuje různě velké regiony. Největší z nich, Castilia y Leon má rozlohu 94 223 km<sup>2<\sup> zatímco Moravskoslezský kraj má rozlohu pouze 5430km2. Technický potenciál pro větrnou a solární energii závisí sice na množství slunečního svitu a typické síle větrů, je ale úměrný rozloze regionů. Není proto možné snadno srovnávat regiony mezi sebou.  
 
-### USA 
-
-Poptávka po elektřině v USA dlouhodobě stagnuje. Mezi roky 2018 a 2018 došlo k poklesu ve využívání uhlí o 16 %, v mixu výroby elektřiny v USA tak uhlí představuje 23 %. Uhlí je nahrazováno především zemním plynem, rozvoj větrných a solárních elektráren je v USA nejnižší ze sledovaných regionů. Průměrný obyvatel USA spotřebovává 12,7 MWh ročně, tedy přibližně čtyřikrát více elektřiny oproti světovému průměru 3,4 MWh. Uhlíková intenzita výroby elektřiny v USA je 405 g CO2 / kWh
 
 ## Poznámky o zpracovateli
 
-Ember (dříve nazývaný Sandbag) je nezávislý klimatický think-tank, zaměřený na podporu přechodu od uhlí k čistým zdrojům elektřiny. Cílem zprávy je předložit analýzu aktuálních trendů ve využívání elektřiny a zároveň také volně poskytnout soubor se zdrojovými daty za jednotlivé státy. Zpráva se zabývá pouze výrobou elektřiny, nikoli celým energetickým sektorem, není tak například zahrnuta energie spotřebovaná dopravou (benzín, nafta) či na vytápění (zejm. zemní plyn) . 
-
-Dataset obsahuje údaje z let 2000–2019 pro 224 zemí. U hlavních zemí byla data získána od národních zdrojů (jedná se o Čínu, Spojené státy americké, Indii, Evropskou unii a 15 dalších větších států), údaje pro ostatní státy byly získány prostřednictvím [Mezinárodní energetické agentury](https://www.iea.org/). V některých případech byla data doplněná o další odhady (zpravidla se jednalo o produkci elektřiny podle jednotlivých typů výroby u dat z IEA). Detailnější metodologii těchto odhadů a dalších výpočtů popisuje příslušná část zprávy.
-
+Zpráva byla vydána Společným výzkumným střediskem (JRC - Joint research institute), což je interní vědecký útvar Evropské Komise. Evropské komisi poskytuje nezávislé vědecké poradenství a přispívá tak k tvorbě politik EU.
